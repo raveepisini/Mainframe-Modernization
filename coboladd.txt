@@ -11,7 +11,7 @@
        working-storage section.
 
        01  ws-input                     pic x(16).
-
+       01  ws-input1  pic x(40). 
        procedure division.
        main-procedure.
 
